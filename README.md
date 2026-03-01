@@ -23,7 +23,7 @@ This is the spiritual ancestor to llama-hoof. This is a compact agent that knows
 https://github.com/jmlago/subzeroclaw
 
 ### OpenHoof
-This sits somewhere between the previous two in terms of complexity. Haven't really used it, but like llama-hoof, 
+This sits somewhere between the previous two in terms of complexity. Haven't really used it, but like llama-hoof, this project is focused on integration with llama.cpp.
 
 https://github.com/llama-farm/openhoof
 
